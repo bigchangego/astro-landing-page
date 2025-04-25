@@ -1,6 +1,6 @@
 system: 1.0.0
 info:
-  name: 我的系统2
+  name: 我的系统3
   vars: {}
 envs:
   prod:
